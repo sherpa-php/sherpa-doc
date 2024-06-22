@@ -1,18 +1,21 @@
-![logo.png](logo.png)
-# Sherpa 
+# About Sherpa
 
-## What is Sherpa 
+PHP is one of the most widely used computer languages in web development.
+Create a website can take quite a bit of time, especially considering repetitive tasks:
+This is where web frameworks come into play, they enable the automation and acceleration 
+of repetitive tasks. So developers only focus on the main tasks of their application.
 
-**Sherpa** is a lightweight MVC php framework, it's the easiest way to discover an MVC framework, create your own website and make much more !
+## Why choose Sherpa?
 
-## Glossary
+The most known PHP frameworks come with many features, most of which you certainly don't use.
+The objective of **Sherpa** is to offer a lightweight framework that the developer can customize
+its tools: Do you plan to introduce a session system? You can add **Sherpa Sessions** thanks our
+rich plugins store.
 
-[Set up a project](http://localhost:63342/sherpa-doc/preview/index_md.html#j8hha8_76)
-: Set up your first project with **Sherpa**
+[✨ What's new?](Changelog.md)
+: Stay up to date with the latest updates from **Sherpa**.
 
-[See documentation](http://localhost:63342/sherpa-doc/preview/index_md.html#j8hha8_793)
-: Look further in the documentation of **Sherpa**
+## Source code
 
-## Source
-
-**Sherpa** is an open source project, you can find the code on the [**Sherpa GitHub**](https://github.com/sherpa-php) organisation.
+**Sherpa** is an open source project, you can find our source codes repositories
+on the [**Sherpa GitHub**](https://github.com/sherpa-php) organization.
