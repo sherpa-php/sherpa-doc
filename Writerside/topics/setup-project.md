@@ -1,3 +1,0 @@
-# setup project
-
-Start typing here...
