@@ -1,3 +1,0 @@
-# documentation
-
-Start typing here...
