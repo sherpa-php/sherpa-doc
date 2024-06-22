@@ -11,5 +11,12 @@
             <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
+    <footer>
+        <copyright>
+            2024 belicfr
+        </copyright>
+
+        <link href="https://github.com/sherpa-php">GitHub</link>
+    </footer>
 
 </buildprofiles>
