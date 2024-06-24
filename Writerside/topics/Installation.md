@@ -10,8 +10,9 @@ by following the following installation steps:
 2. Open your terminal app in your **projects root** folder, please **don't create a project folder**, 
 it will be created **automatically** during installation process.
 3. Run following command: `composer create-project sherpa/template <project-name>`.
-4. At the end, you will obtain a new folder with an empty **Sherpa** installation:
-**You are ready to begin!**
+4. At the end, you will obtain a new folder with an empty **Sherpa** installation.
+5. Configure **Apache** to set the ``public/`` directory as **web root**.
+6. **You are ready to begin!**
 
 [💫 Create your first page](Your-first-page.md)
 : Let's create your first page with **Sherpa**!
